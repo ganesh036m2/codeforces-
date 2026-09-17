@@ -6,13 +6,15 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 1 |
+| 2 | 3 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [implementation](#implementation) (1)
+- [implementation](#implementation) (2)
+- [sortings](#sortings) (1)
+- [strings](#strings) (1)
 
 ---
 
@@ -21,6 +23,19 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 110A | [Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | 800 | [Java 8](https://github.com/ganesh036m2/codeforces-/blob/HEAD/110/A%20-%20Nearly%20Lucky%20Number/solution.java) |
+| 141A | [Amusing Joke](https://codeforces.com/contest/141/problem/A) | 800 | [Java 8](https://github.com/ganesh036m2/codeforces-/blob/HEAD/141/A%20-%20Amusing%20Joke/solution.java) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 141A | [Amusing Joke](https://codeforces.com/contest/141/problem/A) | 800 | [Java 8](https://github.com/ganesh036m2/codeforces-/blob/HEAD/141/A%20-%20Amusing%20Joke/solution.java) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 141A | [Amusing Joke](https://codeforces.com/contest/141/problem/A) | 800 | [Java 8](https://github.com/ganesh036m2/codeforces-/blob/HEAD/141/A%20-%20Amusing%20Joke/solution.java) |
 
 ---
 
