@@ -6,12 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 4 | 5 |
+| 5 | 6 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [Uncategorized](#uncategorized) (1)
 - [brute force](#brute-force) (1)
 - [implementation](#implementation) (3)
 - [math](#math) (1)
@@ -19,6 +20,12 @@
 - [strings](#strings) (1)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2266A | [Good Contest](https://codeforces.com/contest/2266/problem/A) | Unrated | [Java 8](https://github.com/ganesh036m2/codeforces-/blob/HEAD/2266/A%20-%20Good%20Contest/solution.java) |
 
 ### brute force
 
