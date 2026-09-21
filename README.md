@@ -6,18 +6,25 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 4 |
+| 4 | 5 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [brute force](#brute-force) (1)
 - [implementation](#implementation) (3)
 - [math](#math) (1)
 - [sortings](#sortings) (1)
 - [strings](#strings) (1)
 
 ---
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 271A | [Beautiful Year](https://codeforces.com/contest/271/problem/A) | 800 | [Java 8](https://github.com/ganesh036m2/codeforces-/blob/HEAD/271/A%20-%20Beautiful%20Year/solution.java) |
 
 ### implementation
 
