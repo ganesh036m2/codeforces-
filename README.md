@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 8 | 6 |
+| 10 | 7 |
 
 ---
 
@@ -14,8 +14,9 @@
 
 - [Uncategorized](#uncategorized) (2)
 - [brute force](#brute-force) (1)
-- [implementation](#implementation) (4)
-- [math](#math) (2)
+- [implementation](#implementation) (5)
+- [math](#math) (3)
+- [probabilities](#probabilities) (1)
 - [sortings](#sortings) (1)
 - [strings](#strings) (1)
 
@@ -42,13 +43,21 @@
 | 141A | [Amusing Joke](https://codeforces.com/contest/141/problem/A) | 800 | [Java 8](https://github.com/ganesh036m2/codeforces-/blob/HEAD/141/A%20-%20Amusing%20Joke/solution.java) |
 | 151A | [Soft Drinking](https://codeforces.com/contest/151/problem/A) | 800 | [Java 8](https://github.com/ganesh036m2/codeforces-/blob/HEAD/151/A%20-%20Soft%20Drinking/solution.java) |
 | 275A | [Lights Out](https://codeforces.com/contest/275/problem/A) | 900 | [Java 8](https://github.com/ganesh036m2/codeforces-/blob/HEAD/275/A%20-%20Lights%20Out/solution.java) |
+| 492A | [Vanya and Cubes](https://codeforces.com/contest/492/problem/A) | 800 | [Java 8](https://github.com/ganesh036m2/codeforces-/blob/HEAD/492/A%20-%20Vanya%20and%20Cubes/solution.java) |
 
 ### math
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 151A | [Soft Drinking](https://codeforces.com/contest/151/problem/A) | 800 | [Java 8](https://github.com/ganesh036m2/codeforces-/blob/HEAD/151/A%20-%20Soft%20Drinking/solution.java) |
+| 312B | [Archer](https://codeforces.com/contest/312/problem/B) | 1300 | [Java 8](https://github.com/ganesh036m2/codeforces-/blob/HEAD/312/B%20-%20Archer/solution.java) |
 | 318A | [Even Odds](https://codeforces.com/contest/318/problem/A) | 900 | [Java 8](https://github.com/ganesh036m2/codeforces-/blob/HEAD/318/A%20-%20Even%20Odds/solution.java) |
+
+### probabilities
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 312B | [Archer](https://codeforces.com/contest/312/problem/B) | 1300 | [Java 8](https://github.com/ganesh036m2/codeforces-/blob/HEAD/312/B%20-%20Archer/solution.java) |
 
 ### sortings
 
