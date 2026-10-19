@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 10 | 7 |
+| 11 | 8 |
 
 ---
 
@@ -14,7 +14,8 @@
 
 - [Uncategorized](#uncategorized) (2)
 - [brute force](#brute-force) (1)
-- [implementation](#implementation) (5)
+- [greedy](#greedy) (1)
+- [implementation](#implementation) (6)
 - [math](#math) (3)
 - [probabilities](#probabilities) (1)
 - [sortings](#sortings) (1)
@@ -35,6 +36,12 @@
 |---|---------|------------|----------|
 | 271A | [Beautiful Year](https://codeforces.com/contest/271/problem/A) | 800 | [Java 8](https://github.com/ganesh036m2/codeforces-/blob/HEAD/271/A%20-%20Beautiful%20Year/solution.java) |
 
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 499A | [Watching a movie](https://codeforces.com/contest/499/problem/A) | 1000 | [Java 8](https://github.com/ganesh036m2/codeforces-/blob/HEAD/499/A%20-%20Watching%20a%20movie/solution.java) |
+
 ### implementation
 
 | # | Problem | Difficulty | Solution |
@@ -44,6 +51,7 @@
 | 151A | [Soft Drinking](https://codeforces.com/contest/151/problem/A) | 800 | [Java 8](https://github.com/ganesh036m2/codeforces-/blob/HEAD/151/A%20-%20Soft%20Drinking/solution.java) |
 | 275A | [Lights Out](https://codeforces.com/contest/275/problem/A) | 900 | [Java 8](https://github.com/ganesh036m2/codeforces-/blob/HEAD/275/A%20-%20Lights%20Out/solution.java) |
 | 492A | [Vanya and Cubes](https://codeforces.com/contest/492/problem/A) | 800 | [Java 8](https://github.com/ganesh036m2/codeforces-/blob/HEAD/492/A%20-%20Vanya%20and%20Cubes/solution.java) |
+| 499A | [Watching a movie](https://codeforces.com/contest/499/problem/A) | 1000 | [Java 8](https://github.com/ganesh036m2/codeforces-/blob/HEAD/499/A%20-%20Watching%20a%20movie/solution.java) |
 
 ### math
 
